@@ -8,8 +8,14 @@ we want to try
 *fetch
 
 File updated on github directly,
-*more actions from remore repo
+*more actions from remote repo
 *one more action
 
+<<<<<<< HEAD
 Updated from main branch
 * main branch item
+=======
+File updated in branch-01
+*branch-01 action item
+*another item
+>>>>>>> branch-01
